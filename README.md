@@ -1,5 +1,5 @@
 # Real-Estate-Price-Predictor
-**Project Overview**: Real Estate Price Predictor
+**Project Overview**: 
 **Introduction**
 The "Real Estate Price Predictor" project aimed to develop a machine learning model for real estate prices concerning various features such as but not limited to location and square footage, number of bedrooms, etc. To that effect, the project encompasses backend model development and shares a front-end interface which the user can interact with to retrieve predictions.
 
