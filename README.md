@@ -1,9 +1,9 @@
 # Real-Estate-Price-Predictor
-Project Overview: Real Estate Price Predictor
-Introduction
+**Project Overview**: Real Estate Price Predictor
+**Introduction**
 The "Real Estate Price Predictor" project aimed to develop a machine learning model for real estate prices concerning various features such as but not limited to location and square footage, number of bedrooms, etc. To that effect, the project encompasses backend model development and shares a front-end interface which the user can interact with to retrieve predictions.
 
-Key Components:
+**Key Components**:
 
 1. `bhp.ipynb` Jupyter Notebook:
 - **Purpose:** The following Jupyter Notebook is the development environment of the machine learning model. Normal procedures that are included in this documentation is described below:
@@ -27,7 +27,7 @@ Working: In the case of an incoming user feeding in an input about the location,
 • **Purpose:** This is probably a list of what features were used in the model; for example, location, number of bedrooms. When data is input through the frontend, that server will want to map that onto the right features used during training in the model. 
 • **Functionality:** Ensuring that whatever data is fed into the model to make a prediction went through the same preprocessing steps as the training data did.
 
-General Project Purpose:
+**General Project Purpose**:
 The project aims at developing some sort of practical tool for house price prediction. By applying historical data and machine learning methods, one can develop an approximate price of this or that particular property when its characteristics get fed into the model. To this end, the work could be really useful for real estate professionals, buyers, or sellers in making a good choice within the market.
 
 It's a tool wherein backend machine learning has been integrated into a non-technical, user-friendly web interface for accessibility by non-technical users so that advanced predictive analytics can be used sans deep understanding of the algorithms.
